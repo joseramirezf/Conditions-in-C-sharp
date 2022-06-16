@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/bin/Debug/net6.0/conditions
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/bin/Debug/net6.0/conditions.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/bin/Debug/net6.0/conditions.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/bin/Debug/net6.0/conditions.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/bin/Debug/net6.0/conditions.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/conditions.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/conditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/conditions.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/conditions.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/conditions.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/conditions.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/refint/conditions.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/conditions.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/conditions.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/06 - Conditions/conditions/obj/Debug/net6.0/ref/conditions.dll
